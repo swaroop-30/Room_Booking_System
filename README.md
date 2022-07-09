@@ -24,6 +24,6 @@ Member is allowed to:
 
 The programming language used is C++.
 
-Header files are created for Admin,Member,MemberList,Booking,Queue,Room,Stack,RoomList and are accessed through the main function.
+Header files are created for Admin,Member,MemberList,Booking,Queue,Room,Stack,RoomList,DoublyLinkedList and are accessed through the main function.
 
 
